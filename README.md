@@ -1,4 +1,4 @@
-### Hi there 👋
+### Check out some of my pinned repositories ⬇️
 
 <!--
 **matejcerny/matejcerny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
