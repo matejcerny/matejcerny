@@ -1,4 +1,4 @@
-### Check out some of my pinned repositories ⬇️ or follow me on [Nostr](https://iris.to/npub17hplt9lh2n6nf4rmp03tntlzvwy5andd843eg57y40p37sxm9s3slvyx66)
+### Check out some of my pinned repositories ⬇️ or follow me on [Nostr](https://primal.net/p/npub17hplt9lh2n6nf4rmp03tntlzvwy5andd843eg57y40p37sxm9s3slvyx66)
 
 <!--
 **matejcerny/matejcerny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
